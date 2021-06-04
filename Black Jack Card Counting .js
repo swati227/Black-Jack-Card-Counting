@@ -1,5 +1,6 @@
 var count = 0;
 // Commit changes
+// commit changes part 2
 
 function cc(card) {
   switch (card) {
